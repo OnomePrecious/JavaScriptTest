@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0",
+    "test": "^3.3.0"
+  },
+  "name": "javascript2",
+  "description": "This is an accessment.",
+  "version": "1.0.0",
+  "main": "increaseScores.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
